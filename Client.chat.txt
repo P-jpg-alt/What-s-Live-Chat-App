@@ -1,0 +1,84 @@
+Socket[addr=/127.0.0.1,port=111,localport=50288] ww->mnnn
+Socket[addr=/127.0.0.1,port=111,localport=50399] pritam->hii guru
+Socket[addr=/127.0.0.1,port=111,localport=50401] guru->helllo
+Socket[addr=/127.0.0.1,port=111,localport=50401] guru->what u doing?
+Socket[addr=/127.0.0.1,port=111,localport=50399] pritam->nothing
+Socket[addr=/127.0.0.1,port=111,localport=50421] client1->what about work
+Socket[addr=/127.0.0.1,port=111,localport=50422] client2->dont know
+Socket[addr=/127.0.0.1,port=111,localport=50422] client2->not any update
+Socket[addr=/127.0.0.1,port=111,localport=50421] client1->good morning boss
+Socket[addr=/127.0.0.1,port=111,localport=50422] client2->hello boss
+Socket[addr=/127.0.0.1,port=111,localport=50427] Boss->welcome all
+Socket[addr=/127.0.0.1,port=111,localport=50427] Boss->lets start the work
+null unknown->what is port
+null unknn22->bye
+Socket[addr=/127.0.0.1,port=111,localport=50422] client2->g
+Socket[addr=/127.0.0.1,port=111,localport=50508] raaj->done hw
+Socket[addr=/127.0.0.1,port=111,localport=50509] samraaj->noo
+Socket[addr=/127.0.0.1,port=111,localport=50509] samraaj->okk
+Socket[addr=/127.0.0.1,port=111,localport=50509] samraaj->jj
+Socket[addr=/127.0.0.1,port=111,localport=50508] raaj->gg
+Socket[addr=/127.0.0.1,port=111,localport=50508] raaj->hjhj
+Socket[addr=/127.0.0.1,port=111,localport=50592] AA->today is holiday
+Socket[addr=/127.0.0.1,port=111,localport=50593] BB->Ok thank you
+Socket[addr=/127.0.0.1,port=111,localport=50607] CC->dfdf
+Socket[addr=/127.0.0.1,port=111,localport=50641] EE->todays work?
+Socket[addr=/127.0.0.1,port=111,localport=50639] DD->Not posted yet
+Socket[addr=/127.0.0.1,port=111,localport=63323] Sarika mam->Hello students
+Socket[addr=/127.0.0.1,port=111,localport=63326] CR->Hello mam
+Socket[addr=/127.0.0.1,port=111,localport=63327] LR->hello mam
+Socket[addr=/127.0.0.1,port=111,localport=63327] LR->ok
+Socket[addr=/127.0.0.1,port=111,localport=63323] Sarika mam->Tomorrow is holiday
+Socket[addr=/127.0.0.1,port=111,localport=63326] CR->thank you mam
+Socket[addr=/127.0.0.1,port=2222,localport=58834] Guru->hii
+Socket[addr=/127.0.0.1,port=2222,localport=58836] Pritam->byy
+Socket[addr=/127.0.0.1,port=2222,localport=58834] Guru->what happend
+Socket[addr=/127.0.0.1,port=1111,localport=64154] Unknown->hii i am unknown
+Socket[addr=/127.0.0.1,port=1111,localport=64149] Vishal->hi i am vishal
+Socket[addr=/127.0.0.1,port=1111,localport=64151] Pritam->hello pritam here
+Socket[addr=/127.0.0.1,port=1111,localport=58666] Pritam->hello amar
+Socket[addr=/127.0.0.1,port=1111,localport=58667] Amar->hii pritam
+Socket[addr=/127.0.0.1,port=1111,localport=63999] New1->hiii old1
+Socket[addr=/127.0.0.1,port=1111,localport=64001] Old1->hello new1
+Socket[addr=/127.0.0.1,port=1111,localport=57328] old->hiii
+Socket[addr=/127.0.0.1,port=1111,localport=57327] new->hhhu
+Socket[addr=/127.0.0.1,port=111,localport=57988] Chirag->dhdhhdhd
+Socket[addr=/127.0.0.1,port=111,localport=57987] pratham->hiiii
+Socket[addr=/127.0.0.1,port=2222,localport=55426] Biru->cccccc
+Socket[addr=/127.0.0.1,port=2222,localport=55436] biru->ggggb
+Socket[addr=/127.0.0.1,port=2222,localport=55455] biru->hhjjllll
+Socket[addr=/127.0.0.1,port=2222,localport=55455] biru->kjkjkj
+Socket[addr=/127.0.0.1,port=1234,localport=57074] Sundaram->hello am satyam shivam
+Socket[addr=/127.0.0.1,port=1234,localport=57068] Satyam->yes sundaram
+Socket[addr=/127.0.0.1,port=1234,localport=57071] Shivam->hahaha
+Socket[addr=/127.0.0.1,port=1999,localport=57110] Pritam->hello mam
+Socket[addr=/127.0.0.1,port=1999,localport=57116] Mam->hello
+Socket[addr=/127.0.0.1,port=1999,localport=57114] Sir->yes
+Socket[addr=/127.0.0.1,port=1999,localport=57117] HOD->Welcome all
+Socket[addr=/127.0.0.1,port=1999,localport=57110] Pritam->hehe
+Socket[addr=/127.0.0.1,port=44,localport=57289] Demo->hello
+Socket[addr=/127.0.0.1,port=44,localport=57291] Demo1->yes
+Socket[addr=/127.0.0.1,port=44,localport=57341] Ani->am back
+Socket[addr=/127.0.0.1,port=44,localport=57336] vishal->welcome
+Socket[addr=/127.0.0.1,port=1999,localport=57344] sudhir->hey swapnil
+Socket[addr=/127.0.0.1,port=1999,localport=57345] swpnil->glad to see u
+Socket[addr=/127.0.0.1,port=1999,localport=57456] ani->hii pritam
+Socket[addr=/127.0.0.1,port=1999,localport=57455] pri->hii aaani
+Socket[addr=/127.0.0.1,port=2222,localport=63570] Student1->hello 
+Socket[addr=/127.0.0.1,port=2222,localport=63571] Student2->hiii
+Socket[addr=/127.0.0.1,port=2222,localport=63571] Student2->bye
+Socket[addr=/127.0.0.1,port=2222,localport=63570] Student1->gn
+Socket[addr=/127.0.0.1,port=9167,localport=57618] Admin->Good Morning Clients
+Socket[addr=/127.0.0.1,port=9167,localport=53207] Birendra->ggg
+Socket[addr=/127.0.0.1,port=9167,localport=50166] bb->hey
+Socket[addr=/127.0.0.1,port=9167,localport=50211] Admin->Welcome all clients
+Socket[addr=/127.0.0.1,port=9167,localport=50205] Pritam->hello sir good morning
+Socket[addr=/127.0.0.1,port=9167,localport=50208] Ravi->Thank you sir
+Socket[addr=/127.0.0.1,port=9167,localport=50212] Birendra->Sir, I have one query
+Socket[addr=/127.0.0.1,port=1000,localport=53907] Client3->hello all
+Socket[addr=/127.0.0.1,port=1000,localport=53906] Client2->hiii
+Socket[addr=/127.0.0.1,port=1000,localport=53905] Pritam->hii to all
+Socket[addr=/127.0.0.1,port=1111,localport=54233] Omkar->dfsffffff
+Socket[addr=/127.0.0.1,port=1111,localport=54234] Pritam->huu
+Socket[addr=/127.0.0.1,port=111,localport=54273] Omkar->hiii
+Socket[addr=/127.0.0.1,port=111,localport=54274] Pritam->welcome
